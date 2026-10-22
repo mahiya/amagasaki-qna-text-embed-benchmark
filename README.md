@@ -289,7 +289,7 @@ $$\text{nDCG@10} = \frac{\text{DCG@10}}{\text{Ideal DCG@10}}$$
 | ruri-v3-reranker-310m | ruri-v3-310m |
 | sarashina3-rerank | sarashina3-embedding |
 | nemotron-3.5-rerank-8b | nemotron-3.5-embed-8b |
-| qwen3-reranker-0.6b | qwen3-embedding-0.6b (質問側に query プロンプト) |
+| qwen3-reranker-0.6b | qwen3-embedding-0.6b |
 
 ### 文脈埋め込みモデル (Contextual Embeddings)
 
